@@ -1,0 +1,28 @@
+{
+  "name": "npm-typeahead",
+  "version": "0.0.0",
+  "description": "Tutorial from http://www.codemag.com/article/1407041.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -u bdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:folkol/npm-typeahead.git"
+  },
+  "keywords": [
+    "npm",
+    "search",
+    "typeahead",
+    "tutorial"
+  ],
+  "author": "Folkol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/folkol/npm-typeahead/issues"
+  },
+  "homepage": "https://github.com/folkol/npm-typeahead#readme",
+  "dependencies": {
+    "restify": "^4.1.1"
+  }
+}
