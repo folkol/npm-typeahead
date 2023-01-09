@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/folkol/npm-typeahead#readme",
   "dependencies": {
-    "restify": "^4.1.1"
+    "restify": "^8.1.0"
   }
 }
